@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consulta", "Consulta\Consulta.csproj", "{5037991D-D649-4953-91EF-C2921B8B11F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5037991D-D649-4953-91EF-C2921B8B11F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5037991D-D649-4953-91EF-C2921B8B11F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5037991D-D649-4953-91EF-C2921B8B11F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5037991D-D649-4953-91EF-C2921B8B11F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33D9F1C1-D5B0-428D-9CB6-87C4F94B84F6}
+	EndGlobalSection
+EndGlobal

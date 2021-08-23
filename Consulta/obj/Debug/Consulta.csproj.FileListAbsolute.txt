@@ -1,0 +1,20 @@
+D:\Projetos Youtube\Consulta\Consulta\bin\Debug\Consulta.exe.config
+D:\Projetos Youtube\Consulta\Consulta\bin\Debug\Consulta.exe
+D:\Projetos Youtube\Consulta\Consulta\bin\Debug\Consulta.pdb
+D:\Projetos Youtube\Consulta\Consulta\obj\Debug\Consulta.csprojAssemblyReference.cache
+D:\Projetos Youtube\Consulta\Consulta\obj\Debug\Consulta.Form1.resources
+D:\Projetos Youtube\Consulta\Consulta\obj\Debug\Consulta.Properties.Resources.resources
+D:\Projetos Youtube\Consulta\Consulta\obj\Debug\Consulta.csproj.GenerateResource.cache
+D:\Projetos Youtube\Consulta\Consulta\obj\Debug\Consulta.csproj.CoreCompileInputs.cache
+D:\Projetos Youtube\Consulta\Consulta\obj\Debug\Consulta.exe
+D:\Projetos Youtube\Consulta\Consulta\obj\Debug\Consulta.pdb
+C:\Users\Jhonata\Desktop\Consulta\Consulta\bin\Debug\Consulta.exe.config
+C:\Users\Jhonata\Desktop\Consulta\Consulta\bin\Debug\Consulta.exe
+C:\Users\Jhonata\Desktop\Consulta\Consulta\bin\Debug\Consulta.pdb
+C:\Users\Jhonata\Desktop\Consulta\Consulta\obj\Debug\Consulta.csproj.AssemblyReference.cache
+C:\Users\Jhonata\Desktop\Consulta\Consulta\obj\Debug\Consulta.Form1.resources
+C:\Users\Jhonata\Desktop\Consulta\Consulta\obj\Debug\Consulta.Properties.Resources.resources
+C:\Users\Jhonata\Desktop\Consulta\Consulta\obj\Debug\Consulta.csproj.GenerateResource.cache
+C:\Users\Jhonata\Desktop\Consulta\Consulta\obj\Debug\Consulta.csproj.CoreCompileInputs.cache
+C:\Users\Jhonata\Desktop\Consulta\Consulta\obj\Debug\Consulta.exe
+C:\Users\Jhonata\Desktop\Consulta\Consulta\obj\Debug\Consulta.pdb
